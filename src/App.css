@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+}
+.button {
+  top: 14px;
+  left: 20px;
+}
+form {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h1 {
+  color: #707070;
+}
